@@ -22,7 +22,7 @@ RuleFor\(p=&gt;p.UnitPrice\).GreaterThan\(0\); -&lt; sıfırdan büyük olmalı
 
 RuleFor\(p=&gt;p.UnitPrice\).GreaterThan\(10\).When\(p=&gt;p.CategoryId ==2\);
 
-![](.gitbook/assets/add.png)
+![](../../.gitbook/assets/add.png)
 
-![](.gitbook/assets/validatortool.png)
+![](../../.gitbook/assets/validatortool.png)
 
