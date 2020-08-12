@@ -22,6 +22,10 @@ ID of the cake to get, for free of course.
 {% endapi-method-path-parameters %}
 
 {% api-method-headers %}
+{% api-method-parameter name="" type="string" required=false %}
+
+{% endapi-method-parameter %}
+
 {% api-method-parameter name="Authentication" type="string" required=true %}
 Authentication token to track down who is emptying our stocks.
 {% endapi-method-parameter %}
