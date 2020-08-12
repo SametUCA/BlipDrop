@@ -1,6 +1,16 @@
 # Table of contents
 
 * [Ana Sayfa](README.md)
+
+## Virtualization
+
+* [Failover Cluster](virtualization/failover-cluster.md)
+* [Hyper-V Live Migration](virtualization/hyper-v-live-migration.md)
+* [Hyper-V Notlarim](virtualization/hyper-v-notlarim.md)
+* [Load Balancing](virtualization/load-balancing.md)
+
+---
+
 * [C\#](.net/README.md)
   * [Interface isteyene context ver](.net/interface-isteyene-context-ver.md)
   * [Validation](.net/validation.md)
