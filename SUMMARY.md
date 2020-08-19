@@ -13,6 +13,7 @@
 
 * [C\#](developer/.net/README.md)
   * [Validator](developer/.net/validator.md)
+  * [Validation](developer/.net/validation.md)
   * [MVC & NET CORE](developer/.net/net-core/README.md)
     * [AppStart/RouteConfig](developer/.net/net-core/appstart-routeconfig.md)
     * [ObjeSerileştirme \(Session\)](developer/.net/net-core/objeserilestirme-session.md)
@@ -29,7 +30,6 @@
     * [Başlarken](developer/.net/entityframework/entity-framework.md)
     * [Bağlantı Ayarları - Migrations](developer/.net/entityframework/baglanti-ayarlari.md)
   * [Interface isteyene context ver](developer/.net/interface-isteyene-context-ver.md)
-  * [Validation](developer/.net/validation.md)
   * [Microsoft Resmi](developer/.net/microsoft-resmi/README.md)
     * [Bir stringin başında veya sonunda arama yapmak](developer/.net/microsoft-resmi/bir-stringin-basinda-veya-sonunda-arama-yapmak.md)
     * [replace kullanımı](developer/.net/microsoft-resmi/replace-kullanimi.md)
