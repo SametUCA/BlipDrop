@@ -11,6 +11,7 @@
 
 ## Programming Language <a id="developer"></a>
 
+* [SignalR](developer/signalr.md)
 * [C\#](developer/.net/README.md)
   * [Cors Politikası \[Kors\]](developer/.net/cors-politikasi-kors.md)
   * [Validator](developer/.net/validator.md)
@@ -64,8 +65,4 @@
 ## Tools
 
 * [Font](tools/font.md)
-
----
-
-* [SignalR](signalr.md)
 
