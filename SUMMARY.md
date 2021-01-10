@@ -12,6 +12,7 @@
 ## Programming Language <a id="developer"></a>
 
 * [C\#](developer/.net/README.md)
+  * [Cors Politikası \[Kors\]](developer/.net/cors-politikasi-kors.md)
   * [Validator](developer/.net/validator.md)
   * [Validation](developer/.net/validation.md)
   * [MVC & NET CORE](developer/.net/net-core/README.md)
@@ -63,4 +64,8 @@
 ## Tools
 
 * [Font](tools/font.md)
+
+---
+
+* [SignalR](signalr.md)
 
