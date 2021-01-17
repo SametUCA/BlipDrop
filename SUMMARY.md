@@ -55,6 +55,7 @@
     * [Bootstrap Entegre Etme](developer/javascript/react/bootstrap-entegre-etme.md)
     * [Eklentiler](developer/javascript/react/eklentiler.md)
   * [JQuery](developer/javascript/jquery/README.md)
+    * [Jquery OMDB API](developer/javascript/jquery/jquery-omdb-api.md)
     * [flutter api](developer/javascript/jquery/flutter-api.md)
 
 ## SQL Server
