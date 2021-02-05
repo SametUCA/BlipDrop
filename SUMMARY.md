@@ -17,6 +17,7 @@
   * [Validator](developer/.net/validator.md)
   * [Validation](developer/.net/validation.md)
   * [MVC & NET CORE](developer/.net/net-core/README.md)
+    * [Tupple İle 2 farklı model üzerinde çalışma](developer/.net/net-core/tupple-ile-2-farkli-model-uezerinde-calisma.md)
     * [KARIŞIK](developer/.net/net-core/karisik.md)
     * [Partial View Çağırma](developer/.net/net-core/partial-view-cagirma.md)
     * [AppStart/RouteConfig](developer/.net/net-core/appstart-routeconfig.md)
