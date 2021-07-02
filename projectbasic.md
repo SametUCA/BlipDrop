@@ -8,3 +8,5 @@
 
 {% file src=".gitbook/assets/galerici-dosyaokuyazeklendi-.rar" caption="Galeri Otomasyon Ödevi" %}
 
+{% file src=".gitbook/assets/mouse.rar" caption="xmouse" %}
+
