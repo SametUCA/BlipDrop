@@ -14,6 +14,7 @@
 * [SignalR](developer/signalr.md)
 * [C\#](developer/.net/README.md)
   * [Cors Politikası \[Kors\]](developer/.net/cors-politikasi-kors.md)
+  * [Upgrade Lang Version](developer/.net/upgrade-lang-version.md)
   * [Validator](developer/.net/validator.md)
   * [Validation](developer/.net/validation.md)
   * [MVC & NET CORE](developer/.net/net-core/README.md)
